@@ -8,7 +8,7 @@
 </span>
 <span>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadia05&layout=compact&langs_count=8&theme=jolly)](https://github.com/wadia05)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadia05&layout=compact&langs_count=8&theme=merko)](https://github.com/wadia05)
 
 </span>
 
