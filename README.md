@@ -2,9 +2,7 @@
 
 <div align="center">
 <span>
-
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/wait-bab" alt="wait-bab 42 stats" /></a>
-
 </span>
 <span>
   
