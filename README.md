@@ -1,18 +1,17 @@
 # 🌟WADIA AIT BABA ARROUB🌟
 
 <div align="center">
-
-<span>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadia05&layout=compact&langs_count=8&theme=jolly)](https://github.com/wadia05)
-
-</span>
-  
 <span>
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/wait-bab" alt="wait-bab 42 stats" /></a>
 
 </span>
+<span>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadia05&layout=compact&langs_count=8&theme=jolly)](https://github.com/wadia05)
+
+</span>
+
 
 ## 📞 Contact
 
